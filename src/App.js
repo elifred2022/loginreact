@@ -31,6 +31,7 @@ export default App;
 // este login lo ree con auth0 = https://manage.auth0.com/dashboard/us/dev-vak1ns36mr6m850i/onboarding
 // user: elifredmason@gmail.com
 // pass: Roraima2003*
+// https://www.youtube.com/watch?v=DRbXvN10_XA&t=1579s
 
 // ---- dependencias -----
 // npm install @auth0/auth0-react
